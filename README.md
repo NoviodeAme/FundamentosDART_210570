@@ -10,7 +10,7 @@ Proyecto de Clase para la Unidad 1 de la asignatura de Desarrollo Móvil Integra
 |3|Hola Mundo desde DART|Por definir|Activa|
 
 ### LISTA DE HERRAMIENTAS
-![DART]()
+![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ## AUTOR 
 Elaborado por: José Zahid Ramirez Estudillo [@TSU_Zahid](https://github.com/NoviodeAme)
