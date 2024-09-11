@@ -1,2 +1,16 @@
 # FundamentosDART_210570
+
 Proyecto de Clase para la Unidad 1 de la asignatura de Desarrollo Móvil Integral (DMI) impartida por el M.T.I Marco A. Ramirez Hernández
+
+## HISTORIAL DE PRACTICAS: 
+|No. |Nombre|Potenciador|Estatus
+|--|--|--|--|
+|1|Metedologia de Evaluación de la Asignatura|1|Finalizada|
+|2|Instalación y configuración del Enterno de Desarrollo de Flutter/Dart|23|Activa|
+|3|Hola Mundo desde DART|Por definir|Activa|
+
+### LISTA DE HERRAMIENTAS
+![DART]()
+
+## AUTOR 
+Elaborado por: José Zahid Ramirez Estudillo [@TSU_Zahid](https://github.com/NoviodeAme)
